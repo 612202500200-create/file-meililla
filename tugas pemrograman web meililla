@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meililla Putri Rahayu - My Profile</title>
+</head>
+<body>
+    
+    <header>
+        <img src="images/foto-profil.jpg" alt="foto-profil Meililla Putri Rahayu, biodata diri">
+        <h1>Meililla Putri Rahayu</h1>
+        <p>ini adalah biodata diri Meililla</p>
+    </header>
+
+    <nav
+        <ul>
+            <li><a href="tentang">tentang Saya</a></li>
+            <li><a href="pendidikan">pendidikan</a></li>
+            <li><a href="keahlian">keahlian</a></li>
+            <li><a href="organisasi">organisasi</a></li>
+            <li><a href="kontak">kontak</a></li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <section id="tentang">
+            <h2>Tentang Saya</h2>
+            <p>
+                Aku adalah mahasiswi Sistem Informasi di kampus Udinus PSDKU Kediri yang sudah di semester 3.
+                tugas ini adalah tugas pemrograman web yang isinya terdiri dari CSS, HTML, dan javascript.
+            </p>
+        </section>
+
+        <section id="pendidikan">
+            <h2>Pendidikan</h2>
+            <ul>
+                <li>
+                    <h3><S1 Sistem Informasi - UDINUS KEDIRI</h3>
+                      <p>2025 - 2028</p>
+                </li>
+                <li>
+                    <h3>MAN 2 Kediri</h3>
+                    <p>2023 - 2025</p>
+                </li>
+            </ul>
+        </section>
+
+        <section id="keahlian">
+            <h2>Keahlian</h2>
+            <ul>
+                <li>office word</li>
+                <li>coding c++(bertahap)</li>
+            </ul>
+        </section>
+
+        <section id="organisasi">
+            <h2>Pengalaman Dalam Organisasi</h2>
+            <ul>
+                <li>
+                    <h3>Anggota Divisi Acara  - Unit Kegiatan Mahasiswa</h3>
+                    <h3>bertugas membuat rundown Acara, pertemuan Acara(contohnya seperti memasukkan Anggota baru)
+                    <p>2025 - sekarang</p>
+                 </li>
+            </ul>
+        </section>
+
+        <section id="kontak">
+            <h2>kontak</h2>
+            <ul>
+                <li><a href="https://github.com/612202500200-create"</a></li>
+                <li><a href="https://www.instagram.com/iorlla07?stkn=MW1jN3l2czI2NnZodA=="</a></li>
+            </ul>
+        </section>
+
+    </main>
+
+    <footer
+        <p>&copy; 2025 Meililla Putri Rahayu</p>
+    <footer
+
+</body>
+</html>
